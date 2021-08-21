@@ -1,0 +1,80 @@
+body{
+    background: black;
+}
+iframe{
+    border: none;       
+}
+
+.sidebar{
+    text-align:right;
+    float:right;
+}
+.content{
+    text-align:left;
+    float:left;
+}
+.button:link{
+    font-family:arial;
+    font-size: 40px;
+    border-style: outset;
+    border-width: 9px;
+    border-color: #5e5e5e;
+    background-color: #484848;
+    padding: 5px;
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    float:right;
+    width: 69px;
+    height: 69px;
+}
+.button:visited {
+    font-family:arial;
+    font-size: 40px;
+    border-style: outset;
+    border-width: 9px;
+    border-color: #5e5e5e;
+    background-color: #484848;
+    padding: 5px;
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    float:right;
+    width: 69px;
+    height: 69px;
+}
+
+.button:hover {
+    font-family:arial;
+    font-size: 40px;
+    border-style: outset;
+    border-width: 7px;
+    border-color: #5e5e5e;
+    background-color: #484848;
+    padding: 5px;
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    float:right;
+    width: 60px;
+    height: 60px;
+}
+
+.button:active {
+    font-family:arial; 
+    font-size: 40px;
+    border-style: outset;
+    border-width: 7px;
+    border-color: #5e5e5e;
+    background-color: #484848;
+    padding: 5px;
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    float:right;
+    width: 60px;
+    height: 60px;
+}
+.button img{
+    width: 100%;
+}
